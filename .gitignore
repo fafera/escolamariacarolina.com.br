@@ -1,0 +1,15 @@
+# PHP original (substituido por HTML estatico)
+*.php
+functions.php
+
+# backups / zips
+site.zip
+*.zip
+
+# editor / OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
